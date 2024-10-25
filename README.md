@@ -17,7 +17,7 @@ CF Flux Remix 是一个基于 Cloudflare Workers 和 Remix 框架的图像生成
 ### 前置条件
 
 - CloudFlare账号
-- Github/Gitlab账号
+- Github/Gitlab账号451585
 
 ## 安装 
 ### [视频教程](https://www.bilibili.com/video/BV1Wz2NYyEmW/)
